@@ -8,11 +8,19 @@ __pycache__/
 # Environment variables
 .env
 
-# VS Code settings
+# VS Code
 .vscode/
 
-# Jupyter Notebook checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
 # Logs
 *.log
+
+# Distribution
+build/
+dist/
+
+# Coverage
+.coverage
+htmlcov/
